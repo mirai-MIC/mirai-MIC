@@ -9,7 +9,6 @@
 
 <div align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirai-MIC&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"  alt=""/> 
-  <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=mirai-MIC&show_icons=true&theme=radical" alt="" />
 </div>
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%" alt="">
